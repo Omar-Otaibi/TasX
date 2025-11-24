@@ -1,0 +1,99 @@
+[00:00:00.589] Server  LOG     
+[00:00:00.589] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:00.589] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:00.590] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:00.590] Server  LOG     
+[00:00:00.590] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:00.590] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:00.590] Server  LOG     
+[00:00:00.735] Server  LOG      ✓ Ready in 484ms
+[00:00:04.280] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.504] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:04.504] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:04.504] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763948581091}
+[00:00:10.622] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763948587208}
+[00:26:10.905] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:11.011] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:26:11.011] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
+[00:26:11.011] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763950147601}
+[00:27:05.157] Server  LOG      ✓ Compiled in 47ms
+[00:27:08.789] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763950205378}
+[00:33:45.721] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763950602307}
+[00:35:39.089] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763950715675}
+[00:36:50.202] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763950786786}
+[00:38:07.204] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:07.396] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:38:07.396] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
+[00:38:07.396] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763950863984}
+[01:27:09.502] Server  LOG      ✓ Compiled in 239ms
+[01:31:01.002] Server  LOG      ✓ Compiled in 42ms
+[01:31:04.981] Server  LOG      ✓ Compiled in 33ms
+[01:34:29.496] Server  LOG      ✓ Compiled in 44ms
+[01:34:55.594] Server  LOG      ✓ Compiled in 29ms
+[01:34:55.702] Browser ERROR   <%s /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements. logoDark
+[01:34:55.703] Browser ERROR   The tag <%s> is unrecognized in this browser. If you meant to render a React component, start its name with an uppercase letter. logoDark
+[01:38:15.298] Server  LOG      ✓ Compiled in 58ms
+[01:38:15.339] Browser ERROR   <%s /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements. logoDark
+[01:38:22.124] Server  LOG      ✓ Compiled in 36ms
+[01:38:22.170] Browser ERROR   <%s /> is using incorrect casing. Use PascalCase for React components, or lowercase for HTML elements. logoDark
+[01:38:30.037] Server  LOG      ✓ Compiled in 36ms
+[01:39:25.172] Server  LOG      ✓ Compiled in 44ms
+[01:41:27.798] Server  LOG      ✓ Compiled in 36ms
+[01:41:30.285] Server  LOG      ✓ Compiled in 44ms
+[01:41:39.984] Server  LOG      ✓ Compiled in 32ms
+[01:43:17.289] Server  LOG      ✓ Compiled in 81ms
+[01:44:13.727] Server  LOG      ✓ Compiled in 82ms
+[01:44:50.628] Server  LOG      ✓ Compiled in 37ms
+[01:47:02.732] Server  LOG      ✓ Compiled in 33ms
+[01:47:18.492] Server  LOG      ✓ Compiled in 30ms
+[01:47:25.196] Server  LOG      ✓ Compiled in 31ms
+[01:47:42.897] Server  LOG      ✓ Compiled in 36ms
+[01:48:02.247] Server  LOG      ✓ Compiled in 34ms
+[01:48:29.426] Server  LOG      ✓ Compiled in 33ms
+[01:48:49.842] Server  LOG      ✓ Compiled in 41ms
+[01:49:01.602] Server  LOG      ✓ Compiled in 35ms
+[01:53:32.719] Server  LOG      ✓ Compiled in 36ms
+[01:53:42.613] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/#features color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/#features","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763955399199}
+[01:54:28.632] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763955445215}
+[01:56:31.045] Server  LOG      ✓ Compiled in 41ms
+[01:56:31.137] Browser ERROR   uncaughtError: Error: link is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:56:41.218] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:56:41.368] Server  ERROR   D:\TasX\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:56:41.370] Server  ERROR    ⨯ Error: link is a self-closing tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:56:41.380] Server  LOG      ✓ Compiled in 35ms
+[01:56:41.381] Browser ERROR   uncaughtError: Error: link is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:56:41.585] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:56:41.802] Browser ERROR   uncaughtError: Error: link is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:57:55.883] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:57:55.985] Server  ERROR   D:\TasX\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:57:55.985] Server  ERROR    ⨯ Error: link is a self-closing tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:57:55.997] Server  LOG      ✓ Compiled in 35ms
+[01:57:56.153] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:57:56.326] Browser ERROR   uncaughtError: Error: link is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:58:04.145] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:58:04.248] Server  ERROR   D:\TasX\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:58:04.248] Server  ERROR    ⨯ Error: link is a self-closing tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:58:04.258] Server  LOG      ✓ Compiled in 36ms
+[01:58:04.387] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:04.541] Browser ERROR   uncaughtError: Error: link is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:58:12.606] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:58:12.714] Server  ERROR   D:\TasX\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:58:12.715] Server  ERROR    ⨯ Error: link is a self-closing tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:58:12.725] Server  LOG      ✓ Compiled in 34ms
+[01:58:12.860] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:13.021] Browser ERROR   uncaughtError: Error: link is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:58:25.024] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:58:25.117] Server  ERROR   D:\TasX\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:58:25.117] Server  ERROR    ⨯ Error: link is a self-closing tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:58:25.126] Server  LOG      ✓ Compiled in 30ms
+[01:58:25.264] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:25.437] Browser ERROR   uncaughtError: Error: link is a void element tag and must neither have `children` nor use `dangerouslySetInnerHTML`.
+[01:58:43.115] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:58:43.233] Server  LOG      ✓ Compiled in 38ms
+[01:58:43.410] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:58:43.627] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:58:43.627] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/dashboard","route":"/dashboard"}
+[01:58:43.627] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/dashboard color: rgb(120, 120, 120) color: inherit {"dp":"/dashboard","o":"http://localhost:3000/dashboard","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1763955700216}
+[01:58:54.818] Server  LOG      ✓ Compiled in 29ms
