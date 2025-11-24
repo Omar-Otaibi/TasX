@@ -181,8 +181,6 @@
     --color-yellow-400: #fac800;
     --color-green-400: #05df72;
     --color-green-500: #00c758;
-    --color-blue-200: #bedbff;
-    --color-blue-500: #3080ff;
     --color-black: #000;
     --color-white: #fff;
     --spacing: .25rem;
@@ -247,8 +245,6 @@
       --color-yellow-400: lab(83.2664% 8.65132 106.895);
       --color-green-400: lab(78.503% -64.9265 39.7492);
       --color-green-500: lab(70.5521% -66.5147 45.8072);
-      --color-blue-200: lab(86.15% -4.04379 -21.0797);
-      --color-blue-500: lab(54.1736% 13.3368 -74.6839);
     }
   }
 }
@@ -2027,14 +2023,6 @@
 
   .bg-\[radial-gradient\(45\%_40\%_at_50\%_40\%\,var\(--primary\)_0\%\,transparent_100\%\)\] {
     background-image: radial-gradient(45% 40% at 50% 40%, var(--primary) 0%, transparent 100%);
-  }
-
-  .fill-blue-200 {
-    fill: var(--color-blue-200);
-  }
-
-  .fill-blue-500 {
-    fill: var(--color-blue-500);
   }
 
   .fill-current {

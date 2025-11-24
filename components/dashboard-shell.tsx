@@ -33,7 +33,9 @@ export function DashboardShell() {
   const SidebarContent = () => (
     <>
       <div className="flex h-16 items-center border-b px-6 gap-3">
-        <LogoDark className="w-8 h-8 rounded-lg shadow-sm"/>
+        <a href="/" aria-label="Go to home" className="inline-flex items-center">
+          <LogoDark className="w-8 h-8 rounded-lg shadow-sm" />
+        </a>
         <span className="font-bold text-xl tracking-tight text-primary">TasX</span>
       </div>
       <nav className="flex-1 overflow-y-auto py-6 px-3">
