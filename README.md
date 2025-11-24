@@ -2,7 +2,7 @@
 
 TasX is a lightweight yet powerful project management web application designed to help teams track tasks, allocate resources, and monitor progress efficiently. Built with a clean UI and intuitive workflow, TasX enables individuals and teams to stay organized and aligned.
 
-![TasX Screenshot]([/mnt/data/Screenshot_5.png](https://github.com/Omar-Otaibi/TasX/blob/main/TasX.png?raw=true))
+![TasX Screenshot](https://github.com/Omar-Otaibi/TasX/blob/main/TasX.png?raw=true)
 
 ---
 
